@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minioppgave_mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5692dcf2ae5566b84c82774735e517e2dca9a8f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ca8d45761bdfcf7c31274b3e260dd3df19f260")]
 [assembly: System.Reflection.AssemblyProductAttribute("minioppgave_mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minioppgave_mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

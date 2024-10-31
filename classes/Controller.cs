@@ -9,11 +9,10 @@ public class Controller
         return newName;
     }
 
-    public string strenght()
+    public string strength()
     {
         Console.WriteLine("Add your deadlift");
         string? deadlift = Console.ReadLine();
-        //double num1 = Convert.ToDouble(deadlift);
         return deadlift;
     }
 

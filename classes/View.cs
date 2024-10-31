@@ -8,8 +8,8 @@ public class View
         return controller.AddName();
     }
 
-    public string strenghtMethod()
+    public string strengthMethod()
     {
-        return controller.strenght();
+        return controller.strength();
     }
 }

@@ -7,6 +7,6 @@ class Program
         View view = new View();
 
         Console.WriteLine(view.nameMethod());
-        Console.WriteLine(view.strenghtMethod());
+        Console.WriteLine(view.strengthMethod());
     }
 }
