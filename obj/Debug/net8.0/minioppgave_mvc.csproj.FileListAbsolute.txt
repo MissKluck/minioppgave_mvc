@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/minioppgave_mvc/bin/Debug/net8.0/minioppgave_mvc
+/Users/Sigrid/Documents/C#/minioppgave_mvc/bin/Debug/net8.0/minioppgave_mvc.deps.json
+/Users/Sigrid/Documents/C#/minioppgave_mvc/bin/Debug/net8.0/minioppgave_mvc.runtimeconfig.json
+/Users/Sigrid/Documents/C#/minioppgave_mvc/bin/Debug/net8.0/minioppgave_mvc.dll
+/Users/Sigrid/Documents/C#/minioppgave_mvc/bin/Debug/net8.0/minioppgave_mvc.pdb
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.sourcelink.json
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.dll
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/refint/minioppgave_mvc.dll
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.pdb
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/minioppgave_mvc.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/minioppgave_mvc/obj/Debug/net8.0/ref/minioppgave_mvc.dll
