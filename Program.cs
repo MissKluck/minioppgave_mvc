@@ -4,9 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
+        Model model = new Model("Wendy Chan", 168);
         View view = new View();
+        Controller controller = new Controller(model, view);
 
-        Console.WriteLine(view.nameMethod());
-        Console.WriteLine(view.strengthMethod());
+        controller.DisplayModel();
+
+        controller.AddName();
+
+        controller.deadLift();
+
+        controller.DisplayModel();
+
+        Console.ReadLine();
+
+
     }
 }
