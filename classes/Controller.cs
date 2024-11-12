@@ -1,19 +1,38 @@
 public class Controller
 {
-    Model model = new Model();
+    Model controllerModel;
+    View controllerView;
+    public Controller(Model model, View view)
+    {
+        controllerModel = model;
+        controllerView = view;
+    }
 
-    public string AddName()
+    public void AddName()
     {
         Console.WriteLine("Write a new name:");
         string? newName = Console.ReadLine();
-        return newName;
+        if (string.IsNullOrWhiteSpace(newName))
+        {
+            Console.WriteLine("Naame cannot be empty!\n");
+        }
+        else
+        {
+            controllerModel.Name = newName;
+        }
     }
-
-    public string strength()
+    public void deadLift()
     {
         Console.WriteLine("Add your deadlift");
-        string? deadlift = Console.ReadLine();
-        return deadlift;
+        if (int.TryParse(Console.ReadLine(), out int deadLift))
+        {
+            controllerModel.Strength = deadLift;
+        }
+    }
+
+    public void DisplayModel()
+    {
+        controllerView.Display(controllerModel);
     }
 
 }
