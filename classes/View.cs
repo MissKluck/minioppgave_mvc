@@ -1,15 +1,23 @@
 public class View
 {
-    Controller controller = new Controller();
 
-
-    public string nameMethod()
+    public void Display(Model model)
     {
-        return controller.AddName();
+        Console.WriteLine(model.ToString());
     }
 
-    public string strengthMethod()
+    public void DisplayMessage(string message)
     {
-        return controller.strength();
+        Console.WriteLine($"{message}");
     }
+
+    //public string nameMethod()
+    //{
+    //    return controller.AddName();
+    //}
+    //
+    //public string strengthMethod()
+    //{
+    //    return controller.strength();
+    //}
 }
